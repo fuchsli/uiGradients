@@ -775,5 +775,9 @@
     {
         "name": "EasyMed",
         "colors": ["#DCE35B", "#45B649"]
+    },
+    {
+        "name": "IRI-Test",
+        "colors": ["#3DB0B4", "#E4B348"]
     }
 ]
